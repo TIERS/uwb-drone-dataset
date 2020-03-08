@@ -1,6 +1,6 @@
 # DWM1001 Anchor autopositioning firmware
 
-This folder contains firmware for estimating the positions. The firmware itself only calculates the distances between pairs of anchors (returning the average and standard deviation of multiple measurements, by default 5 measurements are taken). The actual calculation of anchor positions must be done externally.
+This folder contains firmware for estimating anchor positions in a fast and accurate manner (~1s and ~10cm error in LOS). The firmware itself only calculates the distances between pairs of anchors (returning the average and standard deviation of multiple measurements, by default 5 measurements are taken). The actual calculation of anchor positions must be done externally.
 
 *Note that the examples below consist in very basic application using the UWB features of the DWM1001C. These examples are not intended to be used in a commercial application and may not comply with regulation requirements.*
 
