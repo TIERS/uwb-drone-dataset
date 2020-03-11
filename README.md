@@ -25,6 +25,13 @@ Compared to previous datasets, this dataset contains:
 - Multiple anchor configurations
 - Study of UWB accuracy when the UAV is both inside and ouside the convex envelope defined by the anchor positions
 
+In addition, in the paper you will find
+
+- Characterization of the UWB accuracy based on UAV speed, height and distance to the center of mass of the anchor system
+- Description of the different data subsets
+- Analysis of the power conssumption of the DWM1001-DEV board
+- Description of the autopositioning process for anchors (faster and more accurate than the one give by Decawave's DRTLS system)
+
 ## Repository structure
 
 The repository is divided in three main parts: ROS nodes, firmware for the DWM1001 DEV, and the dataset.
