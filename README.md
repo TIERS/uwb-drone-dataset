@@ -1,6 +1,9 @@
 # UWB Localization for Autonomous UAV flight
 
-**UWB-Based System for UAV Localization in GNSS-Denied Environments: Characterization and Dataset**. The paper is available in ArXiv.
+**UWB-Based System for UAV Localization in GNSS-Denied Environments: Characterization and Dataset**. [[I'm an inline-style link](https://www.google.com)
+.](https://arxiv.org/abs/2003.04380).
+
+If you find the code or data in this repository useful in your research, please consider citing our paper:
 
 ```
 @misc{queralta2020uwbbased,
