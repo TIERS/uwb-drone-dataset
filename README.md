@@ -1,12 +1,12 @@
 # UWB Localization for Autonomous UAV flight
 
 **UWB-Based System for UAV Localization in GNSS-Denied Environments: Characterization and Dataset**. Jorge Peña Queralta and Carmen Martínez Almansa and Fabrizio Schiano and Dario Floreano and Tomi Westerlund.
-[The paper is available in our website.](https://tiers.utu.fi/paper/queralta2020uwbdataset) and also in [arXiv](https://arxiv.org/abs/2003.04380).
+[The paper is available in our website.](https://tiers.utu.fi/paper/queralta2020uwbdataset) and also in [arXiv](https://arxiv.org/abs/2003.04380). The paper has been accepted to the 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
 
 If you find the code or data in this repository useful in your research, please consider citing our paper:
 
 ```
-@misc{queralta2020uwbbased,
+@inproceedings{queralta2020uwb,
     title={UWB-based System for UAV Localization in GNSS-Denied Environments: Characterization and Dataset},
     author={Jorge Peña Queralta and Carmen Martínez Almansa and Fabrizio Schiano and Dario Floreano and Tomi Westerlund},
     year={2020},
