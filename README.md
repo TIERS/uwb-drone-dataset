@@ -8,7 +8,7 @@ If you find the code or data in this repository useful in your research, please 
 ```
 @inproceedings{queralta2020uwb,
     title={UWB-based System for UAV Localization in GNSS-Denied Environments: Characterization and Dataset},
-    author={Jorge Peña Queralta and Carmen Martínez Almansa and Fabrizio Schiano and Dario Floreano and Tomi Westerlund},
+    author={Jorge {Peña Queralta} and Carmen {Martínez Almansa} and Fabrizio Schiano and Dario Floreano and Tomi Westerlund},
     year={2020},
     eprint={2003.04380},
     archivePrefix={arXiv},
