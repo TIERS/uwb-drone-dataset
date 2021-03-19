@@ -10,9 +10,12 @@ If you find the code or data in this repository useful in your research, please 
     title={UWB-based System for UAV Localization in GNSS-Denied Environments: Characterization and Dataset},
     author={Jorge {Peña Queralta} and Carmen {Martínez Almansa} and Fabrizio Schiano and Dario Floreano and Tomi Westerlund},
     year={2020},
-    eprint={2003.04380},
-    archivePrefix={arXiv},
-    primaryClass={cs.RO}
+    booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+    year={2020},
+    volume={},
+    number={},
+    pages={4521-4528},
+    doi={10.1109/IROS45743.2020.9341042}}
 }
 ```
 
